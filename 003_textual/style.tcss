@@ -8,8 +8,9 @@ Label {
 }
 
 Input {
+    color: lightgreen;
+    background: black;
     border: round darkgreen;
-    padding: 1;
 }
 
 .boton-principal {
