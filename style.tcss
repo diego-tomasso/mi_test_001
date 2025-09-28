@@ -1,0 +1,24 @@
+Screen {
+    align: center middle;
+    padding: 2;
+}
+
+Label {
+    color: green;
+}
+
+Input {
+    border: round darkgreen;
+    padding: 1;
+}
+
+.boton-principal {
+    background: green;
+    color: black;
+    border: round green;
+}
+
+#salida {
+    color: yellow;
+    padding-top: 1;
+}
