@@ -1,0 +1,20 @@
+{
+    "nombre": "Luciano Conti",
+    "player_id": "498040720",
+    "personalidad": "Un tipo popular, que es temperamental ademas de justo.",
+    "experiencia": 2,
+    "liderazgo": 2,
+    "lealtad": 20,
+    "tsi": 290,
+    "sueldo": 2900,
+    "especialidad": "Rapido",
+    "forma": 7,
+    "condicion": 5,
+    "arquero": 1,
+    "defensa": 6,
+    "jugadas": 2,
+    "lateral": 4,
+    "asistencias": 3,
+    "anotacion": 2,
+    "parada": 3
+}

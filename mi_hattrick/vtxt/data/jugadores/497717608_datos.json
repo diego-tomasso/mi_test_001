@@ -1,0 +1,20 @@
+{
+    "nombre": "Juan Teysera",
+    "player_id": "497717608",
+    "personalidad": "Un tipo carismatico, que es estable ademas de honorable.",
+    "experiencia": 2,
+    "liderazgo": 6,
+    "lealtad": 20,
+    "tsi": 1060,
+    "sueldo": 4000,
+    "especialidad": "Rapido",
+    "forma": 6,
+    "condicion": 6,
+    "arquero": 1,
+    "defensa": 7,
+    "jugadas": 4,
+    "lateral": 4,
+    "asistencias": 4,
+    "anotacion": 2,
+    "parada": 6
+}

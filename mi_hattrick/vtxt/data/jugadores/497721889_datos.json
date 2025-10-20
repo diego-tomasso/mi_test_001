@@ -1,0 +1,20 @@
+{
+    "nombre": "Alan 'Tano' Paganini",
+    "player_id": "497721889",
+    "personalidad": "Un tipo carismatico, que es calmado ademas de honesto.",
+    "experiencia": 1,
+    "liderazgo": 5,
+    "lealtad": 4,
+    "tsi": 640,
+    "sueldo": 4680,
+    "especialidad": "-",
+    "forma": 6,
+    "condicion": 5,
+    "arquero": 1,
+    "defensa": 3,
+    "jugadas": 7,
+    "lateral": 2,
+    "asistencias": 2,
+    "anotacion": 4,
+    "parada": 2
+}

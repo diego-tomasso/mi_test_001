@@ -1,0 +1,20 @@
+{
+    "nombre": "Andres Iniesta",
+    "player_id": "497551053",
+    "personalidad": "Un tipo carismatico, que es calmado ademas de justo.",
+    "experiencia": 2,
+    "liderazgo": 6,
+    "lealtad": 4,
+    "tsi": 770,
+    "sueldo": 3720,
+    "especialidad": "-",
+    "forma": 4,
+    "condicion": 5,
+    "arquero": 1,
+    "defensa": 5,
+    "jugadas": 6,
+    "lateral": 5,
+    "asistencias": 4,
+    "anotacion": 3,
+    "parada": 4
+}
